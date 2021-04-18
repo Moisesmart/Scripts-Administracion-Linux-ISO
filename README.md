@@ -9,7 +9,7 @@
 ## Descripción del script: ##
 ***Este script permite hacer una limpieza del sistema,eliminando los archivos de configuración,la caché de apt,los archivos de la papelera y por último los kernels antiguos***
 
-## Descarga aquí el script:
+## Descarga aquí el script: https://github.com/Moisesmart/LimpiezaSistema.git
 
  ## Acceso a Script2- Verificar que un servicio/proceso se está ejecutando
 ### ➡️ 2.-[Script2](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/Ejecucionproceso)
