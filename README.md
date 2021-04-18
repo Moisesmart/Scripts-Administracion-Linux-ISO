@@ -18,7 +18,9 @@
 
 
 ## Acceso a Script3- Diferentes estilos de color en Bash
-### ➡️ 3.-[Script3](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/ColorTexto)
+### ➡️ 3.-[Script3](https://github.com/Moisesmart/Scripts/blob/main/ColorTexto.sh)
+
+## Descarga aquí el script: https://github.com/Moisesmart/Scripts.git
 
 ## Descripción del script: ## 
 
