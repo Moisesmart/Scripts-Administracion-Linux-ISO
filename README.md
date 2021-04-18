@@ -30,3 +30,11 @@
 ## Descripción del script: ## 
 
 ***Este script muestra la actividad del servidor, que usuarios están conectados,cuales son los últimos logueados,uso de memoria y uso de disco,procesos más extensos, y los puertos TCP abiertos***
+
+
+## Acceso a Script5- Encriptar cualquier archivo
+### ➡️ 4.-[Script4](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/CompruebaServidor)
+
+## Descripción del script: ## 
+
+***Este script permite encriptar cualquier archivo creado con cualquier extensión**
