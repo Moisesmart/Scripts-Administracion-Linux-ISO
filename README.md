@@ -33,7 +33,7 @@
 
 
 ## Acceso a Script5- Encriptar cualquier archivo
-### ➡️ 4.-[Script4](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/CompruebaServidor)
+### ➡️ 4.-[Script4](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/EncriptarArchivo)
 
 ## Descripción del script: ## 
 
