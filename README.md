@@ -4,6 +4,6 @@
 Acceso a Script1-Script de cambiar password de root
 ➡️1.-[Script1](https://github.com/Moisesmart/wget/blob/main/1.-Introducción.md)
 
- Acceso a Script2 ➡️
+ Acceso a Script2- Verificar que un servicio/proceso se está ejecutando ➡️
  2.-[Script2](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/Ejecucionproceso)
  
