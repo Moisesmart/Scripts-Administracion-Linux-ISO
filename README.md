@@ -9,8 +9,8 @@
 ## Descripción del script: ##
 ***Este script permite automatizar el cambio de contraseña del root con un simple comando***
 
- ## Acceso a Script2- Verificar que un servicio/proceso se está ejecutando ##  ## ➡️
- 2.-[Script2](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/Ejecucionproceso)
+ ## Acceso a Script2- Verificar que un servicio/proceso se está ejecutando
+## ➡️ 2.-[Script2](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/Ejecucionproceso)
 
 ## Descripción del script: ## 
 
