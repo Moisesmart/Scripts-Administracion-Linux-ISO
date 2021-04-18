@@ -4,7 +4,7 @@
 
 
 ## Acceso a Script1-Script de cambiar password de root ##
-➡️1.-[Script1](https://github.com/Moisesmart/wget/blob/main/1.-Introducción.md)
+## ➡️ ## 1.-[Script1](https://github.com/Moisesmart/wget/blob/main/1.-Introducción.md)
 
 ## Descripción del script: ##
 ***Este script permite automatizar el cambio de contraseña del root con un simple comando***
