@@ -3,8 +3,8 @@
 ## ÍNDICE : ##
 
 
-## Acceso a Script1-Script Patrón Especial ##
-### ➡️ 1.-[Script1](https://github.com/Moisesmart/wget/blob/main/1.-Introducción.md)
+## Acceso a Script1-Script para hacer una limpieza del sistema ##
+### ➡️ 1.-[Script1](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/LimpiezaDispositivo)
 
 ## Descripción del script: ##
 ***Este script permite automatizar el cambio de contraseña del root con un simple comando***
