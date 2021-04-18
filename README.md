@@ -4,7 +4,7 @@
 
 
 ## Acceso a Script1-Script para hacer una limpieza del sistema ##
-### ➡️ 1.-[Script1](https://github.com/Moisesmart/LimpiezaSistema/blob/main/LimpiezaDispositivo)
+# ➡️ 1.-[Script1](https://github.com/Moisesmart/LimpiezaSistema/blob/main/LimpiezaDispositivo)
 
 ## Descripción del script: ##
 ***Este script permite hacer una limpieza del sistema,eliminando los archivos de configuración,la caché de apt,los archivos de la papelera y por último los kernels antiguos***
