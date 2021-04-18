@@ -1,0 +1,35 @@
+#!/bin/bash
+    date;
+    echo "Tiempo de actividad:"
+    uptime
+    echo "Actualmente conectados:"
+    w
+    echo "--------------------"
+    echo "Últimos logins:"
+    last -a |head -3
+    echo "--------------------"
+    echo "Uso de memoria y disco:"
+    df -h | xargs | awk '{print "Free/total disk: " $11 " / " $9}'
+    free -m | xargs | awk '{print "Free/total memory: " $17 " / " $8 " MB"}'
+    echo "--------------------"
+    start_log=`head -1 /var/log/messages |cut -c 1-12`
+    oom=`grep -ci kill /var/log/messages`
+    echo -n "OOM errors since $start_log :" $oom
+    echo ""
+    echo "--------------------"
+    echo "Utilización y procesos más costosos:"
+    top -b |head -3
+    echo
+	top -b |head -10 |tail -4
+    echo "--------------------"
+    echo "Abrir puertos TCP:"
+    nmap -p- -T4 127.0.0.1
+    echo "--------------------"
+    echo "Conexiones actuales:"
+    ss -s
+    echo "--------------------"
+    echo "Procesos:"
+    ps auxf --width=200
+    echo "--------------------"
+    echo "Estado de la máquina virtual:"
+    vmstat 1 5
