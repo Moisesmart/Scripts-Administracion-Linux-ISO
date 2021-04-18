@@ -23,3 +23,10 @@
 ## Descripción del script: ## 
 
 ***Este script permite ver el texto del Bash en diferentes estilos de color***
+
+## Acceso a Script4- Diferentes estilos de color en Bash
+### ➡️ 4.-[Script4](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/ColorTexto)
+
+## Descripción del script: ## 
+
+***Este script permite ver el texto del Bash en diferentes estilos de color***
