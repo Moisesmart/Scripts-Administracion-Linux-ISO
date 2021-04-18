@@ -3,7 +3,7 @@
 ## ÍNDICE : ##
 
 
-## Acceso a Script1-Script de cambiar password de root ##
+## Acceso a Script1-Script Patrón Especial ##
 ### ➡️ 1.-[Script1](https://github.com/Moisesmart/wget/blob/main/1.-Introducción.md)
 
 ## Descripción del script: ##
