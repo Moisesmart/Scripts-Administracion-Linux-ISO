@@ -1,4 +1,5 @@
 #!/bin/bash
+#Autor: Moisés Martín Ortego
 clear 
 echo "\33[1m Scripts ISO"
 # Efecto negrita
