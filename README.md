@@ -31,7 +31,7 @@
 ***Este script permite ver el texto del Bash en diferentes estilos de color***
 
 ## Acceso a Script4- Comprobar actividad del servidor
-### ➡️ 4.-[Script4](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/CompruebaServidor)
+### ➡️ 4.-[Script4](https://github.com/Moisesmart/Servidor/blob/main/CompruebaServidor)
 ## Descarga aquí el script: https://github.com/Moisesmart/Servidor.git
 
 ## Descripción del script: ## 
