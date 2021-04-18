@@ -34,8 +34,6 @@
 ### ➡️ 4.-[Script4](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/CompruebaServidor)
 ## Descarga aquí el script: https://github.com/Moisesmart/Servidor.git
 
-## Descarga aquí el script:
-
 ## Descripción del script: ## 
 
 ***Este script muestra la actividad del servidor, que usuarios están conectados,cuales son los últimos logueados,uso de memoria y uso de disco,procesos más extensos, y los puertos TCP abiertos***
