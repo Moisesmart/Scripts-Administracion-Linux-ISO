@@ -1,4 +1,4 @@
-# Scripts-Administracion-Linux-
+# Scripts-Administración-Linux-
 
 ## ÍNDICE : ##
 
