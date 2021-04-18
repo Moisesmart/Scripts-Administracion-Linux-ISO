@@ -1,0 +1,11 @@
+#!/bin/bash
+#Autor: Moisés Martín Ortego
+echo "Bienvenido,este script está listo para encriptar algún archivo/carpeta"
+echo "Está limitado,colocalo en la misma carpeta que el script para poder cifrarlo"
+echo "Escribe el nombre exacto del archivo con su extensión"
+read file;
+#gpg cifra y firma digitalmente el archivo
+gpg -d $file.gpg > decpt.txt
+echo "El script ha encriptado el archivo satisfactoriamente..."
+echo "Ahora eliminará el archivo original"
+rm -rf $file
