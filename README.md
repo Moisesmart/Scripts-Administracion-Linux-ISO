@@ -12,9 +12,9 @@
 ## Descarga aquí el script: https://github.com/Moisesmart/LimpiezaSistema.git
 
  ## Acceso a Script2- Verificar que un servicio/proceso se está ejecutando
-# ➡️ 2.-[Script Ejecucion](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/Ejecucionproceso)
+# ➡️ 2.-[Script Ejecucion](https://github.com/Moisesmart/Ejecucion/blob/main/Ejecucionproceso)
 
-## Descarga aquí el script:
+## Descarga aquí el script: https://github.com/Moisesmart/Ejecucion.git
 
 ## Descripción del script: ## 
 ***Este script permite saber si existen procesos de algun servicio o programa ejecutándose,en este caso este script verifica que el demonio de Apache está ejecutandose***
