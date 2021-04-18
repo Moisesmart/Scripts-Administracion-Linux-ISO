@@ -37,4 +37,4 @@
 
 ## Descripción del script: ## 
 
-***Este script permite encriptar cualquier archivo creado con cualquier extensión**
+***Este script permite encriptar cualquier archivo creado con cualquier extensión***
