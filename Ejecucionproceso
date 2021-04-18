@@ -1,4 +1,3 @@
-
 #!/bin/sh
 SERVICE='httpd'
 if ps ax | grep -v grep | grep $SERVICE > /dev/null
