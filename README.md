@@ -17,7 +17,7 @@
 ***Este script permite saber si existen procesos de algun servicio o programa ejecutándose,en este caso este script verifica que el demonio de Apache está ejecutandose***
 
 
-## Acceso a Script3- Verificar que un servicio/proceso se está ejecutando
+## Acceso a Script3- Diferentes estilos de color en Bash
 ### ➡️ 3.-[Script3](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/ColorTexto)
 
 ## Descripción del script: ## 
