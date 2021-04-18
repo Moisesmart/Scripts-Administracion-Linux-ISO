@@ -1,4 +1,5 @@
 #!/bin/bash
+#Autor: Moisés Martín Ortego
     date;
     echo "Tiempo de actividad:"
     uptime
