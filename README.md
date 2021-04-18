@@ -11,4 +11,4 @@ Descripción del script:
 
 Descripción del script: 
 
-#***Este script permite saber si existen procesos de algun servicio o programa ejecutándose,en este caso este script verifica que el demonio de Apache está ejecutandose***#
+***Este script permite saber si existen procesos de algun servicio o programa ejecutándose,en este caso este script verifica que el demonio de Apache está ejecutandose***
