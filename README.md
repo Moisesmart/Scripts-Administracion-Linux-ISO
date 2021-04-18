@@ -41,7 +41,7 @@
 ## Acceso a Script5- Encriptar cualquier archivo
 # ➡️ 5.-[Script EncriptrarArchivo](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/EncriptarArchivo)
 
-## Descarga aquí el script:
+## Descarga aquí el script: https://github.com/Moisesmart/Encriptar.git
 
 ## Descripción del script: ## 
 
