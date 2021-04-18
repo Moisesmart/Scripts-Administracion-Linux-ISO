@@ -18,7 +18,7 @@
 
 
 ## Acceso a Script3- Verificar que un servicio/proceso se está ejecutando
-### ➡️ 3.-[Script2](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/Ejecucionproceso)
+### ➡️ 3.-[Script3](https://github.com/Moisesmart/Scripts-Administracion-Linux-/blob/main/ColorTexto)
 
 ## Descripción del script: ## 
 
